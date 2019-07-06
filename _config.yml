@@ -32,7 +32,8 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-
+default:
+  title: "Please work"
 
 
 # Exclude from processing.

@@ -6,6 +6,7 @@ layout: default
 permalink: "/"
 ---
 
+### (Click the headers for more info)
 
 # [Tutoring](./tutoring)
 I will be private tutoring this summer for any math levels ranging from pre-algebra
