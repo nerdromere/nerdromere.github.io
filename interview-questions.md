@@ -3,4 +3,10 @@ layout: default
 permalink: /interview-questions/
 ---
 
-<h1>These are the questions we already covered and thoroughly discussed:</h1>
+## These are the resources we are using to cover interview questions:
+
+- leetcode.com
+- stepbystep.com
+- practiceit.com
+
+#### Here are some of the questions which seemed interesting enough to share:
