@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /tutoring/
+permalink: /tutoring
 ---
 
 <h1>Email me directly for more information</h1>
