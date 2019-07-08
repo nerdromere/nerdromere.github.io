@@ -27,7 +27,7 @@ show_buttons: true
 button0: /
 button1: /tutoring/
 button2: /interview-questions/
-
+google_analytics: UA-131049106-2
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
