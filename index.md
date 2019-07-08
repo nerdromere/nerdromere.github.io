@@ -42,9 +42,15 @@ high amount of data). Click [here](./imdb-jdbc) for more information.
 A five-six hour session going over concepts that are not taught in class or just
 briefly introduced. Click header for more info.
 
-# [_SQL_](./sql)
+# SQL
 This should be covered in the JDBC IMDb project, but extra practice on
-[stepbystep.com](stepbystep.com) will be done.
+[stepbystep.com](stepbystep.com) will be done. Not much more to it. I am keen
+on learning this with someone.
+
+# [_Regex_](./regex)
+You need to know REGEX as a CS student! I think this will be in the form of
+making a one v one game where there is a set of information you need to gather
+with a regex expression. I'll make the game stub on GitHub.
 
 # [_Linux_](./linux)
 Since Linux is open-source, and will stay open source, it is the norm to know

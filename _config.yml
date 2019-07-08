@@ -23,10 +23,19 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+# Buttons
 show_buttons: true
 button0: /
 button1: /tutoring
-button2: /interview-questions
+button2: /python
+button3: /interview-questions
+button4: /imdb-jdbc
+button5: /java-concepts
+button6: /regex
+button7: /linux
+button8: /apache
+
+#Google analytics id
 google_analytics: UA-131049106-2
 # Build settings
 markdown: kramdown
