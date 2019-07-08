@@ -21,8 +21,8 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h1 class="project-name">{{site.title}}</h1>
+      <h2 class="project-tagline">{{default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_buttons %}
         <a href="{{ site.button0 }}" class="btn">Home</a>
         <a href="{{ site.button1 }}" class="btn">Tutoring</a>
@@ -40,7 +40,7 @@
       {{ content }}
 
       <footer class="site-footer">
-        {% if site.github.is_project_page %}
+        {% if site.footer %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
       </footer>
