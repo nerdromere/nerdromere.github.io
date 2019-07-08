@@ -4,7 +4,7 @@ layout: default
 permalink: /regex
 ---
 
-#Know your Regex
+# Know your Regex
 
 It's a beautiful tool when you know it. We will be making a multiplayer game
 using server sockets for connection, and create a game to learn REGular
