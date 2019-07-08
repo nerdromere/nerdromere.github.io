@@ -8,7 +8,7 @@ permalink: /
 
 ### (Click the headers for more info)
 
-# [__Tutoring__](./tutoring)
+# [_Tutoring_](./tutoring)
 I will be private tutoring this summer for any math levels ranging from pre-algebra
 to calculus and Linear algebra, so feel free to click <a href="./tutoring">here </a>
 for more information. I also tutor Java, C, C++, and can provide letters of
