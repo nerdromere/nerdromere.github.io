@@ -50,7 +50,7 @@ on learning this with someone.
 # [_Regex_](./regex)
 You need to know REGEX as a CS student! I think this will be in the form of
 making a one v one game where there is a set of information you need to gather
-with a regex expression. I'll make the game stub on GitHub.
+with regex. I'll make the game stub on GitHub.
 
 # [_Linux_](./linux)
 Since Linux is open-source, and will stay open source, it is the norm to know
