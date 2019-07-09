@@ -19,7 +19,8 @@ starting on the 15th of July.
 I'll also look for a pdf book online. I am still planning it, so give me any
 recommendations.
 
-* Watch this video before meeting up: https://www.youtube.com/watch?v=aZZkEdWxBQs
+* Watch this video before meeting up:
+[https://www.youtube.com/watch?v=aZZkEdWxBQs](https://www.youtube.com/watch?v=aZZkEdWxBQs)
 Very good video for programmers!
 
 ## Progress
