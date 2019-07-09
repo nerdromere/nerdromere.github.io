@@ -15,7 +15,9 @@ recommendations if so desired.
 # Websites
 A quick shoutout, I'll be making websites for people, so reach out to me
 if you want a personal website, (something basic like this, or something a bit
-more complex) just email me at nerdromere@gmail.com.
+more complex) just email me at nerdromere@gmail.com. I will be using Amazon Webs
+Services to host a couple websites. I will be getting to know it quite well over
+the summer.
 
 # [_Python_](./python)
 I will be learning Python this summer as many it's becoming a popular language
