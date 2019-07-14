@@ -21,7 +21,8 @@ recommendations.
 
 * Watch this video before meeting up:
 [https://www.youtube.com/watch?v=aZZkEdWxBQs](https://www.youtube.com/watch?v=aZZkEdWxBQs)
-Very good video for programmers!
+
+Then create an account on [codestepbystep.com](https://www.codestepbystep.com/)
 
 ## Progress
 Will update when started and people are on board.
